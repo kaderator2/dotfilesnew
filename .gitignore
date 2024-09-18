@@ -13,6 +13,15 @@
 
 # nvim
 !.config/nvim
+!.config/nvim/*
+!.config/nvim/lua
+!.config/nvim/lua/*
+!.config/nvim/lua/chade
+!.config/nvim/lua/chade/*
+!.config/nvim/after/ftplugin
+!.config/nvim/after/ftplugin/*
+!.config/nvim/after/plugin
+!.config/nvim/after/plugin/*
 
 # i3
 !.config/i3
@@ -21,11 +30,25 @@
 # fish
 !.config/fish
 !.config/fish/*
+!.config/fish/completions
+!.config/fish/completions/*
+!.config/fish/conf.d
+!.config/fish/conf.d/*
+
+!.config/fish/functions
+.config/fish/functions/*
+!.config/fish/functions/n.fish
+!.config/fish/functions/push.fish
+!.config/fish/functions/xclip.fish
 
 # tmux
 !.tmux.conf
 
 # plank
-!./config/plank
-!./config/plank/*
+!.config/plank
+!.config/plank/*
+!.config/plank/dock1
+!.config/plank/dock1/*
+!.config/plank/dock1/launchers
+!.config/plank/dock1/launchers/*
 
