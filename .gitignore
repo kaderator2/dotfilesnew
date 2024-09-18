@@ -12,7 +12,7 @@
 .config/*
 
 # nvim
-!.config/nivm
+!.config/nvim
 !.config/nvim/*
 
 # i3
