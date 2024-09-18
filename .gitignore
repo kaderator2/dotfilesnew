@@ -45,11 +45,4 @@
 # tmux
 !.tmux.conf
 
-# plank
-!.config/plank
-!.config/plank/*
-!.config/plank/dock1
-!.config/plank/dock1/*
-!.config/plank/dock1/launchers
-!.config/plank/dock1/launchers/*
 
