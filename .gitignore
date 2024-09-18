@@ -45,4 +45,7 @@
 # tmux
 !.tmux.conf
 
-
+# plank themes
+!.local/share/plank
+!.local/share/plank/*
+!.local/share/plank/themes
