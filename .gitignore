@@ -27,6 +27,7 @@
 # i3
 !.config/i3
 !.config/i3/*
+.config/i3/config
 
 # fish
 !.config/fish
