@@ -42,6 +42,8 @@
 !.config/fish/functions/n.fish
 !.config/fish/functions/push.fish
 !.config/fish/functions/xclip.fish
+!.config/fish/functions/cwd.fish
+!.config/fish/functions/gwd.fish
 
 # tmux
 !.tmux.conf
