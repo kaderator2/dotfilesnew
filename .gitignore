@@ -48,6 +48,9 @@
 # tmux
 !.tmux.conf
 
+# alacritty
+!.alacritty.toml
+
 # plank themes
 !.local
 !.local/share

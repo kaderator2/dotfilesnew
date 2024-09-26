@@ -1,0 +1,12 @@
+[shell]
+program = "/bin/fish"
+[font]
+size = 20 
+normal = { family = "cousine", style = "Regular" }
+[colors]
+transparent_background_colors = true
+[window]
+opacity = 0.9
+blur = true
+padding = { x = 3, y = 3 }
+dynamic_padding = true
