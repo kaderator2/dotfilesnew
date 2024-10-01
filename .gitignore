@@ -45,6 +45,10 @@
 !.config/fish/functions/cwd.fish
 !.config/fish/functions/gwd.fish
 
+# my scripts
+!scripts
+!scripts/*
+
 # tmux
 !.tmux.conf
 
